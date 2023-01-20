@@ -5,3 +5,16 @@ h1 {
     text-decoration: underline;
     text-align: center;
 }
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+
+main {
+    padding: 20px;
+}
