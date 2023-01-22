@@ -1,6 +1,8 @@
 body {
     margin: 0;
+    background-color: antiquewhite;
 }
+
 h1 {
     text-decoration: underline;
     font-weight: 500;
@@ -26,6 +28,7 @@ main {
 
 footer {
     margin: 20px;
+    padding-left: 15px;
     font-size: large;
     color: rgb(79, 75, 75);
     background-color: silver;
