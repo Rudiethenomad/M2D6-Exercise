@@ -8,6 +8,9 @@ h1 {
 
 table {
     width: 100%;
+    background-color: silver;
+    height: 70vh;
+   
 }
 
 table, th, td {
@@ -17,4 +20,16 @@ table, th, td {
 
 main {
     padding: 20px;
+}
+
+footer {
+    padding: 20px;
+}
+
+img {
+    padding-left: 5vw;
+   height: 400px;
+   width: 200px;
+    object-fit: contain;
+    mix-blend-mode: color-burn ;
 }
