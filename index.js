@@ -30,7 +30,7 @@ function changeColor(){
 };
 
 
-//ex 12
+//ex 12 willn not run, not sure why I think this should work
 const element = document.getElementById("footer");
 element.innerHTML = "New Heading";
 
