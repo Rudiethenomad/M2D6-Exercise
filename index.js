@@ -23,7 +23,14 @@ function buttonColor () {
 }
 
 */
+//ex 9 and 12 are not working correctly.
+//ex 9
+function changeColor(){
+    document.getElementById('price').classList.add('price');
+};
 
 
-
+//ex 12
+const element = document.getElementById("footer");
+element.innerHTML = "New Heading";
 
